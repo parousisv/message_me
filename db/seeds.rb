@@ -15,4 +15,4 @@
 # User.create(username: "Merry", password: "merry")
 # User.create(username: "Pippin", password: "pippin")
 
-Message.create(body: "One does not simply walk into Mordor", user_id: 6)
+# Message.create(body: "One does not simply walk into Mordor", user_id: 6)
